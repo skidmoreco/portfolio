@@ -8,7 +8,7 @@ import Heroimg2  from '../components/Heroimg2';
 const Project = () => {
   return <div>
     <Navbar />
-    <Heroimg2 />
+    <Heroimg2 heading="PROJECTS." text="Here is some of my recent work" />
     <Footer />
   </div>
   
