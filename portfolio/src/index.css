@@ -27,7 +27,7 @@ ul {
     padding: 12px 32px;
     font-size: 1rem;
     text-transform: uppercase;
-    background: rgb(248, 217, 15);
+    background:  rgba(64, 74, 131, 0.85);
     color: #222;
     border: 1px solid #fff;
     cursor: pointer;
