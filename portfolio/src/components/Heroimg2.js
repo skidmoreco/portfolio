@@ -1,4 +1,4 @@
-import "./Heroimg2Styles.css"
+import "./Styling/Heroimg2Styles.css"
 
 import React, { Component } from 'react'
 

@@ -1,4 +1,4 @@
-import "./HeroImgStyles.css";
+import "./Styling/HeroImgStyles.css";
 
 import IntroImg from "../assets/headshot.jpg";
 import React from 'react'

@@ -1,4 +1,4 @@
-import "./navbarStyles.css"
+import "./Styling/navbarStyles.css"
 
 import React, { useState } from 'react';
 import { Link } from "react-router-dom";
@@ -29,7 +29,7 @@ const Navbar = () => {
     return (
     <div className={color ? "header header-bg" : "header"}>
         <Link to={"/"}>
-            <h1>Portfolio.</h1>
+            <h1>skidmoreco.</h1>
         </Link>
         <ul className={click ? "nav-menu active" : "nav-menu"}>
             <li>
