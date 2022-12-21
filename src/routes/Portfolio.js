@@ -4,7 +4,7 @@ import HeroImg from '../components/HeroImg';
 import Footer from '../components/Footer'; 
 
 
-const Home = () => {
+const Portfolio = () => {
   return <div>
     <Navbar />
     <HeroImg />
@@ -13,4 +13,4 @@ const Home = () => {
   
 };
 
-export default Home
+export default Portfolio;

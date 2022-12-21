@@ -1,6 +1,9 @@
 import project2 from "../assets/project2.jpg";
 import project3 from "../assets/project2.jpg";
 import project4 from "../assets/project2.jpg";
+import project5 from "../assets/project2.jpg";
+import project6 from "../assets/project2.jpg";
+
 
 const projectCardData = [
     {
@@ -21,12 +24,26 @@ const projectCardData = [
     {
         imgsrc: project4,
         title: 'employeeTracker',
+        text: 'Created a command-line application in a CMS (Content Management System) format, that an employer could use to view, update, add, & delete employee information using Inquirer package. Also utilizing MySQL2 packages to be able to connect to the MySQL database to perform queries & the console.table package to print MySQL rows to the console.',
+        sourceLink: "https://github.com/skidmoreco/SQL-employee-tracker",
+        videoDemo: "https://drive.google.com/file/d/1Py_aLS7SkUIapnNmT9OlQ_DeLrPADyQB/view"
+    },
+    {
+        imgsrc: project4,
+        title: 'employeeTracker',
         text: 'A;DKJF;ASDFKJAS;LDKFJ',
         liveLink: "url.com",
         sourceLink: "url.com"
     },
     {
-        imgsrc: project4,
+        imgsrc: project5,
+        title: 'employeeTracker',
+        text: 'A;DKJF;ASDFKJAS;LDKFJ',
+        liveLink: "url.com",
+        sourceLink: "url.com"
+    },
+    {
+        imgsrc: project6,
         title: 'employeeTracker',
         text: 'A;DKJF;ASDFKJAS;LDKFJ',
         liveLink: "url.com",

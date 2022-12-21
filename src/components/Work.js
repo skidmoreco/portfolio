@@ -11,6 +11,8 @@ const Work = () => {
     <ProjectCard {...ProjectCardData[1]}/>
     <ProjectCard {...ProjectCardData[2]}/>
     <ProjectCard {...ProjectCardData[3]}/>
+    <ProjectCard {...ProjectCardData[4]}/>
+    <ProjectCard {...ProjectCardData[5]}/>
     </div>
   </div>
   )
