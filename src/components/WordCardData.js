@@ -5,8 +5,8 @@ import project4 from "../assets/project2.jpg";
 const projectCardData = [
     {
         imgsrc: project2,
-        title: 'JATE',
-        text: 'A;DKJF;ASDFKJAS;LDKFJ',
+        title: 'J.A.T.E.',
+        text: 'Created a text editor that runs in the browser. The app is a single-page application that meets the PWA criteria. Implemented methods for getting and storing data to an IndexedDB database. The app also fully functions while offline!',
         liveLink: "url.com",
         sourceLink: "url.com"
 
@@ -14,9 +14,9 @@ const projectCardData = [
     {
         imgsrc: project3,
         title: 'socialnetworkAPI',
-        text: 'A;DKJF;ASDFKJAS;LDKFJ',
-        liveLink: "url.com",
-        sourceLink: "url.com"
+        text: 'Built an API for a social network web application where users can share their thoughts, react to friends’ thoughts, and create a friend list. Also used Express.js for routing, a MongoDB database, and the Mongoose ODM.',
+        liveLink: "https://skidmoreco.github.io/PWAtexteditor/",
+        sourceLink: "https://github.com/skidmoreco/PWAtexteditor"
     },
     {
         imgsrc: project4,
