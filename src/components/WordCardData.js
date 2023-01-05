@@ -31,10 +31,10 @@ const projectCardData = [
     },
     {
         imgsrc: project5,
-        title: 'Work-Day Planner',
-        text: 'Created a simple calendar application that allows a user to save events for each hour of the day. This app will run in the browser and feature dynamically updated HTML and CSS powered by jQuery. Also using Moment.js to work with date & time.',
-        liveLink: "https://skidmoreco.github.io/work-day-planner/",
-        sourceLink: "https://github.com/skidmoreco/work-day-planner"
+        title: 'helloHiker',
+        text: 'For this project, we created a collaborative MERN-stack single-page application, combining a scalable MongoDB back end, a GraphQL API, and an Express.js and Node.js server with a React front end, implementing user authentication with JWT to build a user-focused platform.',
+        liveLink: "https://hellohiker.herokuapp.com/",
+        sourceLink: "https://github.com/ShahidHashmi1/HelloHiker"
     },
     {
         imgsrc: project5,
