@@ -3,6 +3,7 @@ import "./Styling/navbarStyles.css"
 import React, { useState } from 'react';
 import { Link } from "react-router-dom";
 import { FaBars, FaTimes } from "react-icons/fa";
+import CV from '../assets/RESUME_main.pdf'
 
 const Navbar = () => {
   
@@ -39,7 +40,7 @@ const Navbar = () => {
                 <Link to="/project">Projects</Link>
             </li>
             <li>
-                <Link to="/about">About</Link>
+                <a href={CV} link className='resume-btn'>Resume</a>
             </li>
             <li>
                 <Link to="/contact">Contact</Link>
